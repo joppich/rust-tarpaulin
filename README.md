@@ -1,3 +1,3 @@
 ## rust-tarpaulin
 
-rust:latest with installed tarpaulin
+rust:latest with tarpaulin
